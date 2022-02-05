@@ -3,8 +3,10 @@ body{
     color:#FFFFFF;
 }
 h1{
-/*    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif;*/
-    font-family: Lucida Bright, Georgia, serif;
+/*    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif;
+    font-family: Lucida Bright, Georgia, serif;*/
+    @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+    font-family: 'Lobster', cursive;    
     font-size: 4em;
 }
 h3{
