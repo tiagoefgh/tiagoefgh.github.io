@@ -3,13 +3,13 @@ body{
     color:#FFFFFF;
 }
 h1{
-    @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-    font-family: 'Lobster', cursive;
-    font-size: 5em;
+/*    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif;*/
+    font-family: Lucida Bright, Georgia, serif;
+    font-size: 4em;
 }
 h3{
-    font-family: 'Assailand', sans-serif;
-    font-size: 1.5em;
+  font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+  font-size: 2em;
 }
 img {
     opacity: 0.5;
