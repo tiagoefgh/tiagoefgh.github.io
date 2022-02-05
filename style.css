@@ -1,12 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
 body{
     background-color: black;
     color:#FFFFFF;
 }
-
 h1{
-  font-family: 'Quintessential', cursive;
-  font-size: 6em;
+    font-family: 'Rouge Script', sans-serif;      
+    font-size: 5em;
 }
 h3{
     font-family: 'Assailand', sans-serif;
@@ -19,9 +17,12 @@ img {
     left: 50%;
     transform: translate(-50%, -50%);
     display: block;
+    z-index: -1;
 }
-.contato{
-  margin-top: 650px;
-  float:left;
+.rounded{
+  border-radius: 2rem;
 }
-
+.icons{
+  font-size: 2em;
+  padding: 5px;
+}
